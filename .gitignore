@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+.venv/
+=======
+>>>>>>> ec1d77f (Initialize project with full .venv folder)
+__pycache__/
+*.xlsx
+*.log
+debug_scraper.py
+test_output.txt
+debug.html
+test_scrape.py
+test_api.py
+test_chat.py
+test_ddgs.py
