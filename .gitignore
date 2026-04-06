@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-.venv/
-=======
->>>>>>> ec1d77f (Initialize project with full .venv folder)
 __pycache__/
 *.xlsx
 *.log
